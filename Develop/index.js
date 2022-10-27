@@ -52,7 +52,7 @@ const questions = [
     {
         type: 'input',
         name: 'questions',
-        message: 'Where can users post any questions that they may have about the project?',
+        message: 'What is a common question about your project?',
     },
     {
         type: 'input',
