@@ -70,7 +70,7 @@ function renderLicenseSection(license) {
   To run any tests, run the following command:
 
   \`\`\`
-  ${data.test}
+  ${data.tests}
   \`\`\`
 
   ## Contributing
