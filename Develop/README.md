@@ -1,9 +1,9 @@
-# undefined
+# e
   
 
   ## Description
 
-  sljdf
+  l
 
   ## Table of Contents
 
@@ -27,7 +27,7 @@
 
   ## Usage
 
-  jsj
+  w
 
   
 
@@ -36,19 +36,19 @@
   To run any tests, run the following command:
 
   ```
-  undefined
+  npm test
   ```
 
   ## Contributing
 
-  sljfdkj
+  p
 
   ## Questions
 
   A common question about the repo is:
 
-  jsj
+  o
 
-  If you have any other questions about the repo, open an issue or contact me personally at undefined. 
+  If you have any other questions about the repo, open an issue or contact me personally at j. 
 
-  You can find more of my work at [undefined](https://github.com/undefined/)
+  You can find more of my work at [s](https://github.com/s/).
