@@ -19,6 +19,7 @@ node index.js
 
 ## Screenshots/Demos
 
+#### [Screenshot of program in action](./Develop/demo/2022-10-30.png)
 
 
 ## Credits

@@ -83,7 +83,8 @@ function renderLicenseSection(license) {
 
   ${data.questions}
 
-  If you have any other questions about the repo, open an issue or contact me personally at ${data.contact}. 
+  If you have any other questions about the repo, open an issue or contact me personally at ${data.contact
+  }. 
 
   You can find more of my work at [${data.username}](https://github.com/${data.username}/).
 `;
